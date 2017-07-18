@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<html lang="en">
 
-You can use the [editor on GitHub](https://github.com/NickP123/myfirstwebsite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- Head Section -->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<head>
+  
+<!--  Meta  -->
+<title>PRACTivate</title>
+<meta charset="UTF-8" />
+  
+<!--  Styles  -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="main.css">
 
-### Markdown
+</head>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<!--Body Section -->
+  <body>
 
-```markdown
-Syntax highlighted code block
+<!--Top Banner -->
+  <header class="container">
+  <div class="row">
+   <h1 class="col-sm-4">PRACtivate</h1>
 
-# Header 1
-## Header 2
-### Header 3
+ </div>
+ </header>
+ 
 
-- Bulleted
-- List
+<!--Main Section -->
+    <section class="jumbotron">
+  <div class="container">
+    <div class="row text-center">
+        <h2>Prisinnovation</h2>
+    </div>
+ 
 
-1. Numbered
-2. List
+  <h3>About</h3>
 
-**Bold** and _Italic_ and `Code` text
+<p>What is PRACTivate?</p>
 
-[Link](url) and ![Image](src)
-```
+ <p>PRACTivate is a business incubator that reduces crime and re-offense in local communities. They achieve this by launching social enterprises designed, developed and managed by young adults who are Not in Education, Employment or Training (NEET), who have gained business experience in gang organisations, or as street entrepreneurs.</p>
+ 
+ <p>PRACTivate’s model is one that inherently addresses global challenges in the course of its normal operation, including: 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<ul>Social Inclusion</ul>
+<ul>Breaking the Cycle of Re-offense</ul>
+<ul>Turning Perpetrators to Pioneers</ul>
+ 
+ <h3>Incubator</h3>
+   
+   <p>At completion, participants in our PRACTivate program have career opportunities with PRACTivate, one of our linked Social Franchises, Corporate Partners or an invitation to develop their own social enterprise with the support of the Keepin’ It R.E.A.L. Social Enterprise Incubator.</p>
+   
 
-### Jekyll Themes
+ 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NickP123/myfirstwebsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  <h3>Contact</h3>
+  <p>For more information on Practivate <a www.ipractivate.com> click here</a>
+  </p>
+  
+  <p> Want to know more about Prisinnovation...see our CEO Leslie Alfin speak on the subject with TEDx.</p>
+  
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/7vFcwyRs65s" frameborder="0" allowfullscreen></iframe>
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</div> 
+</html>
